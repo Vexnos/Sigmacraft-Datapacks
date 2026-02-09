@@ -11,4 +11,4 @@ A collection of custom loot tables
 A collection of custom recipes
 
 ## Make Blast Furnaces Great Again
-A datapack to make Blast Furnaces so much better, originally by [Mathmagician8191](https://github.com/Mathmagician8191), but tweaked for Sigmacraft Season 10.
+A datapack to make Blast Furnaces so much better, originally by [Mathmagician8191](https://github.com/Mathmagician8191), but tweaked for Sigmacraft Season 10. You can view the original repository [here](https://github.com/Mathmagician8191/mbfga).
