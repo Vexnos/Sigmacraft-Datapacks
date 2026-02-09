@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "pattern": [
+        "###",
+        "#X#",
+        "#R#"
+    ],
+    "key": {
+        "#": [
+            "cobblestone",
+            "cobbled_deepslate",
+            "blackstone"
+        ],
+        "R": "redstone",
+        "X": "bow"
+    },
+    "result": {
+        "id": "minecraft:dispenser",
+        "count": 1
+    }
+}

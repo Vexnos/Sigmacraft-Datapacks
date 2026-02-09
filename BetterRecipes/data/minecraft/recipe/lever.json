@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "pattern": [
+        "X",
+        "#"
+    ],
+    "key": {
+        "#": [
+            "cobblestone",
+            "cobbled_deepslate",
+            "blackstone"
+        ],
+        "X": "stick"
+    },
+    "result": {
+        "id": "minecraft:lever",
+        "count": 1
+    }
+}

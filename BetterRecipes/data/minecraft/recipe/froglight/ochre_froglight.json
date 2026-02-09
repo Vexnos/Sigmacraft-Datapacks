@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        [
+            "minecraft:shroomlight",
+            "minecraft:glowstone",
+            "minecraft:sea_lantern",
+            "minecraft:verdant_froglight",
+            "minecraft:pearlescent_froglight"
+        ],
+        [
+            "minecraft:glowstone_dust"
+        ]
+    ],
+    "result": {
+        "id": "minecraft:ochre_froglight"
+    }
+}

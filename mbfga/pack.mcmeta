@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "pack_format": 81,
+        "description": "Make Blast Furnaces great again"
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "minecraft",
+                "path": "recipe/netherite_scrap"
+            }
+        ]
+    }
+}

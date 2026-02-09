@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        "minecraft:exposed_copper",
+        "minecraft:glow_lichen"
+    ],
+    "result": {
+        "id": "minecraft:weathered_copper",
+        "count": 1
+    }
+}

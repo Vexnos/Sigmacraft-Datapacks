@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        "minecraft:weathered_copper_bulb",
+        "minecraft:glow_lichen"
+    ],
+    "result": {
+        "id": "minecraft:oxidized_copper_bulb",
+        "count": 1
+    }
+}
