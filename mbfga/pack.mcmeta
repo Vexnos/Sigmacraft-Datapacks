@@ -1,9 +1,9 @@
 {
     "pack": {
-        "pack_format": 88,
+        "pack_format": 94,
         "min_format": [88, 0],
-        "max_format": [88, 0],
-        "description": "Make Blast Furnaces great again"
+        "max_format": [94, 1],
+        "description": "Make Blast Furnaces Great Again."
     },
     "filter": {
         "block": [

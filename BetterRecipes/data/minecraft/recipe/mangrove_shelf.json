@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "shelf",
+    "pattern": [
+        " # ",
+        " # ",
+        " # "
+    ],
+    "key": {
+        "#": "minecraft:mangrove_slab"
+    },
+    "result": {
+        "count": 1,
+        "id": "minecraft:mangrove_shelf"
+    }
+}

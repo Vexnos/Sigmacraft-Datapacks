@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "shelf",
+    "pattern": [
+        " # ",
+        " # ",
+        " # "
+    ],
+    "key": {
+        "#": "minecraft:birch_slab"
+    },
+    "result": {
+        "count": 1,
+        "id": "minecraft:birch_shelf"
+    }
+}

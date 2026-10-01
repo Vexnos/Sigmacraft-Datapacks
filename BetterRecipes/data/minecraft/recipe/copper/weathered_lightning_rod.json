@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        "minecraft:exposed_lightning_rod",
+        "minecraft:glow_lichen"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:weathered_lightning_rod"
+    }
+}

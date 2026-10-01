@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:carved_pumpkin",
+    "result": {
+        "count": 1,
+        "id": "minecraft:carved_pumpkin",
+        "components": {
+            "minecraft:custom_model_data": {
+                "floats": [
+                    68
+                ]
+            }
+        }
+    }
+}

@@ -2,15 +2,19 @@
     "type": "minecraft:crafting_shaped",
     "category": "equipment",
     "pattern": [
-        " # ",
-        "#I#"
+        "###",
+        "#I#",
+        "T T"
     ],
     "key": {
         "#": [
             "minecraft:leather"
         ],
         "I": [
-            "minecraft:iron_ingot"
+            "minecraft:string"
+        ],
+        "T": [
+            "minecraft:tripwire_hook"
         ]
     },
     "result": {

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "crimson_hyphae",
+    "result": {
+        "count": 1,
+        "id": "stripped_crimson_hyphae"
+    }
+}

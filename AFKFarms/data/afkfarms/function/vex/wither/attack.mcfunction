@@ -1,0 +1,1 @@
+player Grian attack interval 600
